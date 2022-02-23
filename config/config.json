@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x212d20B40d73C9472f2f03A1267cdf57D2523b5F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x212d20B40d73C9472f2f03A1267cdf57D2523b5F",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CRORats420V2",
+  "SYMBOL": "RATS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crorats420v2",
+  "SHOW_BACKGROUND": true
+}
